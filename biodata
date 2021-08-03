@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> THIS IS MY BIO DATA</title>
+</head>
+<body bgcolor="#7FFFD4">
+	<center>
+		<img src="gradchaz.jpg" height="175" width="150">
+	</center>
+	<?php 
+		//echo" <h1><center> BIO DATA</center></h1>" ;
+		echo" <h3><center> NAME: Charles Andrew M. Santos </center></h3>" ;
+		echo" <h3><center> AGE: 20</center></h3>" ;
+		echo" <h3><center> BIRTHDAY: January 1, 2001</center></h3>" ;
+		echo" <h3><center> EMAIL: charlesmendoza192@gmail.com</center></h3>" ;
+		echo" <h3><center> COURSE: BSIT Major in Network Security</center></h3>" ;
+		echo" <h3><center> PHONE: 09195166007</center></h3>" ;
+		echo" <h3><center> FATHER: Misael C. Santos</center></h3>" ;	
+		echo" <h3><center> MOTHER: Ruby Rose M. Santos</center></h3>" ;
+		echo" <h3><center> BROTHER: Carl Andriane M. Santos</center></h3>" ;	
+		echo" <h3><center> HOBBIES: Playing Games, Troubleshooting, Eat & Sleep</center></h3>" ;
+		echo" <h3><center> Favorite Color: Red</center></h3>" ;
+
+	?>
+
+
+
+
+
+
+	</center>
+
+</body>
+</html>
+
+	
